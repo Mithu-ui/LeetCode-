@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithu-ui/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Mithu-ui/LeetCode-/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Mithu-ui/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Mithu-ui/LeetCode-/tree/master/0696-count-binary-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithu-ui/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
