@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mithu-ui/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mithu-ui/LeetCode-/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mithu-ui/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mithu-ui/LeetCode-/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Mithu-ui/LeetCode-/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/Mithu-ui/LeetCode-/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
