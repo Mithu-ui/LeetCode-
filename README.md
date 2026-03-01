@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/Mithu-ui/LeetCode-/tree/master/0696-count-binary-substrings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mithu-ui/LeetCode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Mithu-ui/LeetCode-/tree/master/0101-symmetric-tree) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mithu-ui/LeetCode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
