@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Mithu-ui/LeetCode-/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Mithu-ui/LeetCode-/tree/master/0733-flood-fill) |
 | [1480-running-sum-of-1d-array](https://github.com/Mithu-ui/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Mithu-ui/LeetCode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Mithu-ui/LeetCode-/tree/master/0733-flood-fill) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Mithu-ui/LeetCode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
