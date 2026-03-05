@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mithu-ui/LeetCode-/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Mithu-ui/LeetCode-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mithu-ui/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0088-merge-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mithu-ui/LeetCode-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mithu-ui/LeetCode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mithu-ui/LeetCode-/tree/master/0217-contains-duplicate) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mithu-ui/LeetCode-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mithu-ui/LeetCode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0344-reverse-string) |
