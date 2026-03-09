@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mithu-ui/LeetCode-/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mithu-ui/LeetCode-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mithu-ui/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0088-merge-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mithu-ui/LeetCode-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mithu-ui/LeetCode-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Mithu-ui/LeetCode-/tree/master/0268-missing-number) |
