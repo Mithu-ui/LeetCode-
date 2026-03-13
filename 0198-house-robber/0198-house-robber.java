@@ -4,8 +4,8 @@ class Solution {
         if(i==0) return nums[0];
         if(i==1) return Math.max(nums[1], nums[0]);
         if(dp[i]!=-1) return dp[i];
-        dp[i] = Math.max(robHelp(nums, i-2) + nums[i], robHelp(nums, i-1));
-        return dp[i];
+        return dp[i] = Math.max(robHelp(nums, i-2) + nums[i], robHelp(nums, i-1));
+        
     }
     public int rob(int[] nums) {
       int n = nums.length;
