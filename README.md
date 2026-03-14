@@ -213,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mithu-ui/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Mithu-ui/LeetCode-/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
