@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/Mithu-ui/LeetCode-/tree/master/0696-count-binary-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Mithu-ui/LeetCode-/tree/master/1143-longest-common-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mithu-ui/LeetCode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Dynamic Programming
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Mithu-ui/LeetCode-/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Mithu-ui/LeetCode-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Mithu-ui/LeetCode-/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Mithu-ui/LeetCode-/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
