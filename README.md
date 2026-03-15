@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mithu-ui/LeetCode-/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Mithu-ui/LeetCode-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mithu-ui/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Mithu-ui/LeetCode-/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Mithu-ui/LeetCode-/tree/master/0118-pascals-triangle) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mithu-ui/LeetCode-/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Mithu-ui/LeetCode-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Mithu-ui/LeetCode-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mithu-ui/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0189-rotate-array) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Mithu-ui/LeetCode-/tree/master/0182-duplicate-emails) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mithu-ui/LeetCode-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
