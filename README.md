@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mithu-ui/LeetCode-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Mithu-ui/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithu-ui/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/Mithu-ui/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Mithu-ui/LeetCode-/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Mithu-ui/LeetCode-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Mithu-ui/LeetCode-/tree/master/0739-daily-temperatures) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mithu-ui/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithu-ui/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Mithu-ui/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mithu-ui/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Mithu-ui/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
