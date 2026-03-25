@@ -1,21 +1,18 @@
 class Solution {
-    
-    public int searchInsert(int[] arr, int target) {
-        int low=0,high=arr.length;
-        if(target>arr[high-1]){
-            return high;
-        }
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(arr[mid]==target){
-                return mid;
-            }
-            else if(arr[mid]<target){
-                low=mid+1;
-            }else{
-                high=mid-1;
-            }
+    private int prev;
+    private int BinarySearch(int []nums,int target,int low,int high){
+        int mid=(low+high)/2;
+        if(low<=high){
+            if(nums[mid]==target) return mid;
+            if(nums[mid]<target) return BinarySearch(nums,target,mid+1,high);
+            if(nums[mid]>target)  return BinarySearch(nums,target,low,mid-1);
         }
         return low;
+    }
+    public int searchInsert(int[] nums, int target) {
+        int n=nums.length;
+        if(nums[n-1]<target) return n;
+        if(nums[0]>target) return 0;
+        return BinarySearch(nums,target,0,n-1);
     }
 }
