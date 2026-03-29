@@ -1,26 +1,25 @@
 class Solution {
-    public List<Integer> prev(List<Integer> list){
-        List<Integer> list1=new ArrayList<>();
-        list1.add(1);
-        for(int i=1;i<list.size();i++){
-           list1.add(list.get(i)+list.get(i-1)); 
-        } 
-        list1.add(1);
-        return list1;
+    private List<Integer> helper(int num,List<Integer> prev){
+        List<Integer> res=new ArrayList<>();
+        res.add(1);
+        if(num==1) return res;
+        int n=prev.size();
+        for(int i=1;i<n;i++){
+            res.add(prev.get(i)+prev.get(i-1));
+        }
+        res.add(1);
+        return res;
     }
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> op=new ArrayList<>();
-        if(numRows==0){return op;}
-        List<Integer> list1=new ArrayList<>();
-        list1.add(1);
-        op.add(list1);
-        if(numRows==1){
-            return op;
+        List<List<Integer>> result=new ArrayList<>();
+        for(int i=1;i<=numRows;i++){
+            if(i==1) result.add(helper(i,new ArrayList<>()));
+            else{
+                List<Integer> prev=result.get(i-2);
+                List<Integer> temp=helper(i,prev);
+                result.add(temp);
+            }
         }
-        for(int i=1;i<numRows;i++){
-            List<Integer> lis=prev(op.get(i-1));
-            op.add(lis);
-        }
-        return op;
+        return result;
     }
 }
