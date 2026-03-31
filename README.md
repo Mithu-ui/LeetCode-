@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Mithu-ui/LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mithu-ui/LeetCode-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mithu-ui/LeetCode-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Mithu-ui/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mithu-ui/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithu-ui/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mithu-ui/LeetCode-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mithu-ui/LeetCode-/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Mithu-ui/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Mithu-ui/LeetCode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithu-ui/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Mithu-ui/LeetCode-/tree/master/0704-binary-search) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Mithu-ui/LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mithu-ui/LeetCode-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mithu-ui/LeetCode-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Mithu-ui/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/Mithu-ui/LeetCode-/tree/master/0733-flood-fill) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mithu-ui/LeetCode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Monotonic Stack
