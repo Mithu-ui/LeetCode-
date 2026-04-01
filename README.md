@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Mithu-ui/LeetCode-/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Mithu-ui/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mithu-ui/LeetCode-/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Mithu-ui/LeetCode-/tree/master/0072-edit-distance) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Mithu-ui/LeetCode-/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Mithu-ui/LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mithu-ui/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Mithu-ui/LeetCode-/tree/master/0062-unique-paths) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Mithu-ui/LeetCode-/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/Mithu-ui/LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mithu-ui/LeetCode-/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Mithu-ui/LeetCode-/tree/master/0509-fibonacci-number) |
