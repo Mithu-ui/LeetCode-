@@ -9,22 +9,18 @@
  * }
  */
 class Solution {
-    private ListNode insert(ListNode head,int data){
-        if(head==null){
-            head=new ListNode(data);
-            return head;
-        }
-        ListNode nn=new ListNode(data);
-        nn.next=head;
-        head=nn;
-        return head;
-    }
     public ListNode reverseList(ListNode head) {
-        ListNode temp=head,output=null;
+        ListNode res=null,temp=head;
         while(temp!=null){
-            output=insert(output,temp.val);
+            if(res==null){
+                res=new ListNode(temp.val);
+            }else{
+                ListNode x=new ListNode(temp.val);
+                x.next=res;
+                res=x;
+            }
             temp=temp.next;
         }
-        return output;
+        return res;
     }
 }
