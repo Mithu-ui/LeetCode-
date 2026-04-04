@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mithu-ui/LeetCode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/Mithu-ui/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mithu-ui/LeetCode-/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1652-defuse-the-bomb](https://github.com/Mithu-ui/LeetCode-/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mithu-ui/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mithu-ui/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/Mithu-ui/LeetCode-/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
