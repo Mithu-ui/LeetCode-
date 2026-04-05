@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mithu-ui/LeetCode-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Mithu-ui/LeetCode-/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mithu-ui/LeetCode-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Mithu-ui/LeetCode-/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/Mithu-ui/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mithu-ui/LeetCode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1652-defuse-the-bomb](https://github.com/Mithu-ui/LeetCode-/tree/master/1652-defuse-the-bomb) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mithu-ui/LeetCode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mithu-ui/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithu-ui/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Mithu-ui/LeetCode-/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Mithu-ui/LeetCode-/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Mithu-ui/LeetCode-/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Mithu-ui/LeetCode-/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Mithu-ui/LeetCode-/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mithu-ui/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Mithu-ui/LeetCode-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mithu-ui/LeetCode-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Mithu-ui/LeetCode-/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Counting
 |  |
 | ------- |
