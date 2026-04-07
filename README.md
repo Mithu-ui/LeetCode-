@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mithu-ui/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mithu-ui/LeetCode-/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Mithu-ui/LeetCode-/tree/master/0072-edit-distance) |
+| [0132-palindrome-partitioning-ii](https://github.com/Mithu-ui/LeetCode-/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/Mithu-ui/LeetCode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Mithu-ui/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithu-ui/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mithu-ui/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Mithu-ui/LeetCode-/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Mithu-ui/LeetCode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mithu-ui/LeetCode-/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/Mithu-ui/LeetCode-/tree/master/0312-burst-balloons) |
