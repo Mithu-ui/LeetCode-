@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mithu-ui/LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mithu-ui/LeetCode-/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mithu-ui/LeetCode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0344-reverse-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mithu-ui/LeetCode-/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Mithu-ui/LeetCode-/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/Mithu-ui/LeetCode-/tree/master/0132-palindrome-partitioning-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mithu-ui/LeetCode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
