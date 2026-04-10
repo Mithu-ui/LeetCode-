@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mithu-ui/LeetCode-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Mithu-ui/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Mithu-ui/LeetCode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Mithu-ui/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Mithu-ui/LeetCode-/tree/master/0141-linked-list-cycle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mithu-ui/LeetCode-/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Mithu-ui/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mithu-ui/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mithu-ui/LeetCode-/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Mithu-ui/LeetCode-/tree/master/0072-edit-distance) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mithu-ui/LeetCode-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Mithu-ui/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Mithu-ui/LeetCode-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Mithu-ui/LeetCode-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mithu-ui/LeetCode-/tree/master/0070-climbing-stairs) |
