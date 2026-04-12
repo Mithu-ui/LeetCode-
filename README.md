@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Mithu-ui/LeetCode-/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Mithu-ui/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mithu-ui/LeetCode-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Mithu-ui/LeetCode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mithu-ui/LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mithu-ui/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mithu-ui/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mithu-ui/LeetCode-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mithu-ui/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0733-flood-fill](https://github.com/Mithu-ui/LeetCode-/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -317,8 +319,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Mithu-ui/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mithu-ui/LeetCode-/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Mithu-ui/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mithu-ui/LeetCode-/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
