@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Mithu-ui/LeetCode-/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Mithu-ui/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithu-ui/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mithu-ui/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Mithu-ui/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Mithu-ui/LeetCode-/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Mithu-ui/LeetCode-/tree/master/0733-flood-fill) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mithu-ui/LeetCode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mithu-ui/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithu-ui/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mithu-ui/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Mithu-ui/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mithu-ui/LeetCode-/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mithu-ui/LeetCode-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Mithu-ui/LeetCode-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mithu-ui/LeetCode-/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mithu-ui/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Mithu-ui/LeetCode-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Mithu-ui/LeetCode-/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Mithu-ui/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mithu-ui/LeetCode-/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mithu-ui/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Trie
 |  |
 | ------- |
@@ -335,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Mithu-ui/LeetCode-/tree/master/0797-all-paths-from-source-to-target) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mithu-ui/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
