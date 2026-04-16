@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Mithu-ui/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mithu-ui/LeetCode-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Mithu-ui/LeetCode-/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Mithu-ui/LeetCode-/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mithu-ui/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mithu-ui/LeetCode-/tree/master/0516-longest-palindromic-subsequence) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Mithu-ui/LeetCode-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mithu-ui/LeetCode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mithu-ui/LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Mithu-ui/LeetCode-/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/Mithu-ui/LeetCode-/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mithu-ui/LeetCode-/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Mithu-ui/LeetCode-/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mithu-ui/LeetCode-/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
