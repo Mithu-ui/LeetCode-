@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mithu-ui/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mithu-ui/LeetCode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mithu-ui/LeetCode-/tree/master/0283-move-zeroes) |
+| [0307-range-sum-query-mutable](https://github.com/Mithu-ui/LeetCode-/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Mithu-ui/LeetCode-/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Mithu-ui/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithu-ui/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mithu-ui/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mithu-ui/LeetCode-/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/Mithu-ui/LeetCode-/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Mithu-ui/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Mithu-ui/LeetCode-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mithu-ui/LeetCode-/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0307-range-sum-query-mutable](https://github.com/Mithu-ui/LeetCode-/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mithu-ui/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Trie
 |  |
@@ -356,4 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mithu-ui/LeetCode-/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mithu-ui/LeetCode-/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mithu-ui/LeetCode-/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
