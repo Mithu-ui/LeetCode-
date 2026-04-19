@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mithu-ui/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mithu-ui/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Mithu-ui/LeetCode-/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Mithu-ui/LeetCode-/tree/master/0901-online-stock-span) |
 ## Math
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mithu-ui/LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Mithu-ui/LeetCode-/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Mithu-ui/LeetCode-/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mithu-ui/LeetCode-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/Mithu-ui/LeetCode-/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mithu-ui/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/Mithu-ui/LeetCode-/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1093-statistics-from-a-large-sample](https://github.com/Mithu-ui/LeetCode-/tree/master/1093-statistics-from-a-large-sample) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Mithu-ui/LeetCode-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
