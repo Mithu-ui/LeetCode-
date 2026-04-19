@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Mithu-ui/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mithu-ui/LeetCode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1652-defuse-the-bomb](https://github.com/Mithu-ui/LeetCode-/tree/master/1652-defuse-the-bomb) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mithu-ui/LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mithu-ui/LeetCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/Mithu-ui/LeetCode-/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Mithu-ui/LeetCode-/tree/master/0876-middle-of-the-linked-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mithu-ui/LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Mithu-ui/LeetCode-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mithu-ui/LeetCode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Mithu-ui/LeetCode-/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mithu-ui/LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Counting
 |  |
 | ------- |
