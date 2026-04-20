@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mithu-ui/LeetCode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1652-defuse-the-bomb](https://github.com/Mithu-ui/LeetCode-/tree/master/1652-defuse-the-bomb) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mithu-ui/LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Mithu-ui/LeetCode-/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mithu-ui/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Mithu-ui/LeetCode-/tree/master/0135-candy) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mithu-ui/LeetCode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Mithu-ui/LeetCode-/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Matrix
 |  |
 | ------- |
