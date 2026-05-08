@@ -1,13 +1,11 @@
 class Solution {
-    private int reverse(int num){
-        int temp=0;
-        while(num>0){
-            temp=temp*10+num%10;
-            num=num/10;
-        }
-        return temp;
-    }
     public int mirrorDistance(int n) {
-        return Math.abs(n-reverse(n));
+        int temp=n;
+        int faaa=0;
+        while(temp>0){
+            faaa=faaa*10+temp%10;
+            temp=temp/10;
+        }
+        return Math.abs(faaa-n);
     }
 }
