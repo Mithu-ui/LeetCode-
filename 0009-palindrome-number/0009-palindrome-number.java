@@ -1,19 +1,12 @@
 class Solution {
-    private int reverse(int num){
-        int rev=0,temp=num;
+    public boolean isPalindrome(int x) {
+        if(x<0) return false;
+        int num=0;
+        int temp=x;
         while(temp>0){
-            rev=rev*10+temp%10;
+            num=num*10+temp%10;
             temp=temp/10;
         }
-        return rev;
-    }
-    public boolean isPalindrome(int x) {
-        if(x<0){
-            return false;
-        }
-        if(x>=0 && x<10){
-            return true;
-        }
-        return x==reverse(x);
+        return x==num;
     }
 }
