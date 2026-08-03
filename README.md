@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mithu-ui/LeetCode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1652-defuse-the-bomb](https://github.com/Mithu-ui/LeetCode-/tree/master/1652-defuse-the-bomb) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mithu-ui/LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1929-concatenation-of-array](https://github.com/Mithu-ui/LeetCode-/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mithu-ui/LeetCode-/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
@@ -386,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Mithu-ui/LeetCode-/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Mithu-ui/LeetCode-/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
