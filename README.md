@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Mithu-ui/LeetCode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Mithu-ui/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Mithu-ui/LeetCode-/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Mithu-ui/LeetCode-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Mithu-ui/LeetCode-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Mithu-ui/LeetCode-/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mithu-ui/LeetCode-/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mithu-ui/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Mithu-ui/LeetCode-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Mithu-ui/LeetCode-/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
