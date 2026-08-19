@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Mithu-ui/LeetCode-/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Mithu-ui/LeetCode-/tree/master/0182-duplicate-emails) |
 ## Combinatorics
 |  |
